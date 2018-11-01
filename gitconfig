@@ -3,7 +3,7 @@
 [color]
   ui = auto
 [core]
-	excludesfile = /Users/richardcrosby/.gitignore
+  excludesfile = /Users/richardcrosby/.gitignore
   autocrlf = input
 [merge]
   ff = only
