@@ -5,10 +5,10 @@
 [core]
   excludesfile = /Users/richardcrosby/.gitignore
   autocrlf = input
-[merge]
-  ff = only
 [commit]
   template = ~/.gitmessage
+[merge]
+  ff = only
 [fetch]
   prune = true
 [rebase]
